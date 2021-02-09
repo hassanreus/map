@@ -1,0 +1,196 @@
+{
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "PARK_ID": 1,
+                "NAME": "Tagleft",
+                "DESCRIPTIO": "Flat asphalt surface, 5 components"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [32.253101, -6.257210]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PARK_ID": 3,
+                "NAME": "Tagleft",
+                "DESCRIPTIO": "Flat asphalt surface, 5 components"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [32.253300, -6.257230]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PARK_ID": 4,
+                "NAME": "Tagleft",
+                "DESCRIPTIO": "Flat asphalt surface, 5 components"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [32.252300,-6.257130]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PARK_ID": 5,
+                "NAME": "Tagleft",
+                "DESCRIPTIO": "Flat asphalt surface, 5 components"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [32.262299, -6.256130]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PARK_ID": 6,
+                "NAME": "Ouled",
+                "DESCRIPTIO": "Flat asphalt surface, 5 components"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [32.362301, -6.356130]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PARK_ID": 7,
+                "NAME": "Ouled",
+                "DESCRIPTIO": "Flat asphalt surface, 5 components"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [32.462299,-6.456130]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PARK_ID": 8,
+                "NAME": "Oulad",
+                "DESCRIPTIO": "Flat asphalt surface, 5 components"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [32.562302,-6.556130]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PARK_ID": 9,
+                "NAME": "Bni",
+                "DESCRIPTIO": "Flat asphalt surface, 5 components"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [32.662300,-6.656130]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PARK_ID": 10,
+                "NAME": "Oulad",
+                "DESCRIPTIO": "Flat asphalt surface, 5 components"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [32.762299,-6.756130]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PARK_ID": 11,
+                "NAME": "Boulanouare",
+                "DESCRIPTIO": "Flat asphalt surface, 5 components"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [32.862301,-6.856130]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PARK_ID": 12,
+                "NAME": "Oulad",
+                "DESCRIPTIO": "Flat asphalt surface, 5 components"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [32.962299,-6.956130]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PARK_ID": 14,
+                "NAME": "M'Garto",
+                "DESCRIPTIO": "Flat asphalt surface, 5 components"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [33.162300,-7.156130]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PARK_ID": 15,
+                "NAME": "El",
+                "DESCRIPTIO": "Flat asphalt surface, 5 components"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [33.262299,-7.256130]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PARK_ID": 16,
+                "NAME": "Oulad",
+                "DESCRIPTIO": "Flat asphalt surface, 5 components"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [33.362301,-7.356130]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PARK_ID": 17,
+                "NAME": "Casablanca",
+                "DESCRIPTIO": "Flat asphalt surface, 5 components"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [33.562302,-7.556130]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PARK_ID": 18,
+                "NAME": "SPARK_IDi",
+                "DESCRIPTIO": "Flat asphalt surface, 5 components"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [33.502300, -7.506130]
+            }
+        }
+  ]
+}
